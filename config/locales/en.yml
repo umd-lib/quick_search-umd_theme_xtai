@@ -1,0 +1,10 @@
+en:
+  default_title: 'QuickSearch'
+  contact_email: 'quicksearch@lists.ncsu.edu'
+  opensearch_description: 'QuickSearch'
+
+  defaults_search:
+    display_name: "All"
+    title_name: "Search All"
+    search_form_placeholder: "Search all the things!"
+    module_callout: "Search for anything!"
