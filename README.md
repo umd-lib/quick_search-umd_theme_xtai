@@ -1,4 +1,4 @@
-= QuicksearchGenericTheme
+# QuicksearchGenericTheme
 
 ## Description
 
