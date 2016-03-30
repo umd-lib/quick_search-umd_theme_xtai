@@ -1,3 +1,3 @@
-module QuicksearchGenericTheme
+module QuickSearchGenericTheme
   VERSION = "0.0.1"
 end

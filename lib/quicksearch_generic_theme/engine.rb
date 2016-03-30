@@ -5,8 +5,8 @@ require 'compass-rails'
 require 'foundation-rails'
 require 'font-awesome-sass'
 
-module QuicksearchGenericTheme
+module QuickSearchGenericTheme
   class Engine < ::Rails::Engine
-    isolate_namespace QuicksearchGenericTheme
+    isolate_namespace QuickSearchGenericTheme
   end
 end

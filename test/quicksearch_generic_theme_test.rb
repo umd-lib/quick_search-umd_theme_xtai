@@ -1,7 +1,7 @@
 require 'test_helper'
 
-class QuicksearchGenericThemeTest < ActiveSupport::TestCase
+class QuickSearchGenericThemeTest < ActiveSupport::TestCase
   test "truth" do
-    assert_kind_of Module, QuicksearchGenericTheme
+    assert_kind_of Module, QuickSearchGenericTheme
   end
 end

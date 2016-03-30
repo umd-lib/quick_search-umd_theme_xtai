@@ -1,4 +1,4 @@
 require "quicksearch_generic_theme/engine"
 
-module QuicksearchGenericTheme
+module QuickSearchGenericTheme
 end

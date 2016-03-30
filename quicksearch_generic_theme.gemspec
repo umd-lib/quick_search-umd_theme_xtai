@@ -6,7 +6,7 @@ require "quicksearch_generic_theme/version"
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
   s.name        = "quicksearch_generic_theme"
-  s.version     = QuicksearchGenericTheme::VERSION
+  s.version     = QuickSearchGenericTheme::VERSION
   s.authors     = ["Kevin Beswick"]
   s.email       = ["kdbeswic@ncsu.edu"]
   s.homepage    = "http://search.lib.ncsu.edu"
