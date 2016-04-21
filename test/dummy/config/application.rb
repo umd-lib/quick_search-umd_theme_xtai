@@ -3,7 +3,7 @@ require File.expand_path('../boot', __FILE__)
 require 'rails/all'
 
 Bundler.require(*Rails.groups)
-require "quicksearch_generic_theme"
+require "quick_search_generic_theme"
 
 module Dummy
   class Application < Rails::Application
