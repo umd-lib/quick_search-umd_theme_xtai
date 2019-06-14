@@ -1,5 +1,16 @@
 # QuicksearchGenericTheme
 
+---
+
+## ARCHIVED REPOSITORY
+
+This repository has been archived, and is no longer being developed or
+maintained.
+
+Replaced by [umd-lib/quick_search-umd_theme](https://github.com/umd-lib/quick_search-umd_theme)
+
+---
+
 ## Description
 
 This is a gem engine that provides a generic theme for QuickSearch.
